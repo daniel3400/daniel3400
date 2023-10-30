@@ -1,6 +1,6 @@
 ![github]()
 
-<h1 align="center">hola mi nombre es Daniel Marcillo</h1>
+<h1 align="center">Hola mi nombre es Daniel Marcillo</h1>
 <h3 align="center">un apasionado desarrollador en formacion</h3>
 
 <h3 align="left">Connect with me:</h3>
